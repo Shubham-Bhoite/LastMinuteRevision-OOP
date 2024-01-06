@@ -25,4 +25,14 @@
 - Default Constructor: Default constructor is the constructor which doesn’t take any argument. It has no parameters.
 - Parameterized Constructor: A constructor is called Parameterized Constructor when it accepts a specific number of parameters.
 - Copy Constructor: A copy constructor is a member function which initializes an object using another object of the same class.
+### Characteristics of the constructor:
+- Constructor has the same name as the class itself.
+- Constructors don’t have a return type.
+- A constructor is automatically called when an object is created.
+- It must be placed in the public section of class.
+- If we do not specify a constructor, C++ compiler generates a default constructor for object (expects no parameters and has an empty body).
+- Constructors can be overloaded.
+- Constructor cannot be declared virtual.
 
+       
+    
