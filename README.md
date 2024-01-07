@@ -34,5 +34,13 @@
 - Constructors can be overloaded.
 - Constructor cannot be declared virtual.
 
+## 4: Destructor:
+- A destructor is also a special member function as a constructor. Destructor destroys the class objects created by the constructor.
+- Destructor has the same name as their class name preceded by a tiled (~) symbol.
+### Characteristics of the constructor:
+- Destructor is invoked automatically by the compiler when its corresponding constructor goes out of scope and releases the memory space that is no longer required by the program.
+- Destructor neither requires any argument nor returns any value therefore it cannot be overloaded.
+- Destructor cannot be declared as static and const.
+- Destructor should be declared in the public section of the program.
        
     
