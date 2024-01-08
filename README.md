@@ -43,4 +43,11 @@
 - Destructor cannot be declared as static and const.
 - Destructor should be declared in the public section of the program.
        
-    
+## 5: The main features of OOPs?
+- The main four pillar of oops are given below.
+- ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OOP/assets/117765637/d28b2139-be6b-485e-af8d-b58c22c61f9c)
+
+## 6: Inheritance :
+Inheritance is one of the most important features of Object-Oriented Programming. The capability of a class to derive properties and characteristics from another class is called Inheritance.
+- Real Life Example
+- ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OOP/assets/117765637/b2f22891-5a09-45d6-9ef0-c729fe42cc94)
