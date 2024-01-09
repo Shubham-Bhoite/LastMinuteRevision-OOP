@@ -51,3 +51,16 @@
 Inheritance is one of the most important features of Object-Oriented Programming. The capability of a class to derive properties and characteristics from another class is called Inheritance.
 - Real Life Example
 - ![image](https://github.com/Shubham-Bhoite/LastMinuteRevision-OOP/assets/117765637/b2f22891-5a09-45d6-9ef0-c729fe42cc94)
+
+#### There are 5 types of Inheritance:
+    1. Single Inheritance
+    2. Multiple Inheritance
+    3. Multilevel Inheritance
+    4. Hierarchical Inheritance.
+    5. Hybrid Inheritance.
+
+1) Single Inheritance: When a subclass(child) is inherited from a base class is called single inheritance.
+2) Multiple Inheritance: when one subclass is inherited from more than one base class is called multiple inheritance.
+3) Multilevel Inheritance: In this type of inheritance, a derived class is created from another derived class.
+4) Hierarchical Inheritance: In this type of inheritance, more than one subclass is inherited from a single base class.
+5) Hybrid Inheritance: The inheritance in which the derivation of a class involves more than one form of any inheritance is called hybrid inheritance. Basically C++ hybrid inheritance is combination of two or more types of inheritance. It can also be called multi path inheritance.
