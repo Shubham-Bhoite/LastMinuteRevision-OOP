@@ -64,3 +64,13 @@ Inheritance is one of the most important features of Object-Oriented Programming
 3) Multilevel Inheritance: In this type of inheritance, a derived class is created from another derived class.
 4) Hierarchical Inheritance: In this type of inheritance, more than one subclass is inherited from a single base class.
 5) Hybrid Inheritance: The inheritance in which the derivation of a class involves more than one form of any inheritance is called hybrid inheritance. Basically C++ hybrid inheritance is combination of two or more types of inheritance. It can also be called multi path inheritance.
+
+## 7: Encapsulation :
+- In normal term encapsulation is defined as wrapping up of data and information under a single unit.
+- Encapsulation define as binding together the data and function that manipulates them.
+
+### Advantages ==>
+1) Increased security of data.
+2) Encapsulation allows access to a level without revealing the complex details below that level.
+3) It reduces human errors.
+4) Makes the application easier to understand.
