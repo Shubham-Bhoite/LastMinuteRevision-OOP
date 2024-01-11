@@ -74,3 +74,12 @@ Inheritance is one of the most important features of Object-Oriented Programming
 2) Encapsulation allows access to a level without revealing the complex details below that level.
 3) It reduces human errors.
 4) Makes the application easier to understand.
+
+## 8: Abstraction :
+- Data Abstraction is one of the most essential and important feature of Object Oriented Programming in c++.
+- Abstraction means displays only the relevant attributes of objects and hides the unnecessary details like the background details and implementation.
+
+### Advantages ==>
+1) Helps user to avoid writing the low level code.
+2) Avoids code duplication and increases reusability.
+3) Helps to increase security of an application or program as only required details are provided to the user.
