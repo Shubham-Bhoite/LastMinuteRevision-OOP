@@ -83,3 +83,10 @@ Inheritance is one of the most important features of Object-Oriented Programming
 1) Helps user to avoid writing the low level code.
 2) Avoids code duplication and increases reusability.
 3) Helps to increase security of an application or program as only required details are provided to the user.
+
+## 9: Polymorphism :
+- The word polymorphism means having many forms. Polymorphism occurs when there is a hierarchical mode inheritance.
+- C++ polymorphism means that a call to a member function will cause a different function to be executed depending on the type of object that invokes the function.
+### There are 2 types of Polymorphism:
+     1. Compile time Polymorphism
+     2. Run time Polymorphism
