@@ -90,3 +90,15 @@ Inheritance is one of the most important features of Object-Oriented Programming
 ### There are 2 types of Polymorphism:
      1. Compile time Polymorphism
      2. Run time Polymorphism
+### 1) Compile time Polymorphism: 
+- Compile-time polymorphism is a polymorphism that is, the function call is resolved during the compilation process.
+- We can achieve Compile-time polymorphism by two ways:
+  1. Function overloading :
+  - When there are multiple functions with the same name but take different parameters as an arguments then these function are said to be overloaded.
+  - Functions can be overloaded by changing the number of arguments or and changing the type of arguments.
+  2. Operator Overloading:
+  - C++ also provides the option to overload operators So a single operator ‘+’, when placed between integer operands, adds them and when placed between string operands, concatenates them.
+ 
+ ### 2) Runtime Polymorphism :
+ - Runtime polymorphism is also known as dynamic polymorphism or late binding. In runtime polymorphism, the function call is resolved at run time.
+ - This type of polymorphism is achieved by Function Overriding or Virtual function.
