@@ -102,3 +102,7 @@ Inheritance is one of the most important features of Object-Oriented Programming
  ### 2) Runtime Polymorphism :
  - Runtime polymorphism is also known as dynamic polymorphism or late binding. In runtime polymorphism, the function call is resolved at run time.
  - This type of polymorphism is achieved by Function Overriding or Virtual function.
+
+## 10: Abstract Class :
+- Sometimes implementation of all function cannot be provided in a base class because we don’t know the implementation. Such a class is called abstract class. Example, let Shape be a base class. We cannot provide implementation of function draw() in Shape, but we know every derived class must have implementation of draw().
+- Class is Abstract, if we have atleast one pure virtual function.
