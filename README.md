@@ -106,3 +106,7 @@ Inheritance is one of the most important features of Object-Oriented Programming
 ## 10: Abstract Class :
 - Sometimes implementation of all function cannot be provided in a base class because we don’t know the implementation. Such a class is called abstract class. Example, let Shape be a base class. We cannot provide implementation of function draw() in Shape, but we know every derived class must have implementation of draw().
 - Class is Abstract, if we have atleast one pure virtual function.
+
+## 11: Pure Virtual Function :
+- Also called Absract function.
+- A pure virtual function in c++, is a virtual function for which we can have implementation, but we must override that function in the derived class, otherwise the derived class will also become abstract class.
